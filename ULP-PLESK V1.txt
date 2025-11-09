@@ -1,15 +1,3 @@
-
-░██╗░░░░░░░██╗██████╗░████████╗░░░░░░░█████╗░██╗░░░░░░█████╗░██╗░░░██╗██████╗░
-░██║░░██╗░░██║██╔══██╗╚══██╔══╝░░░░░░██╔══██╗██║░░░░░██╔══██╗██║░░░██║██╔══██╗
-░╚██╗████╗██╔╝██████╔╝░░░██║░░░█████╗██║░░╚═╝██║░░░░░██║░░██║██║░░░██║██║░░██║
-░░████╔═████║░██╔══██╗░░░██║░░░╚════╝██║░░██╗██║░░░░░██║░░██║██║░░░██║██║░░██║
-░░╚██╔╝░╚██╔╝░██║░░██║░░░██║░░░░░░░░░╚█████╔╝███████╗╚█████╔╝╚██████╔╝██████╔╝
-░░░╚═╝░░░╚═╝░░╚═╝░░╚═╝░░░╚═╝░░░░░░░░░░╚════╝░╚══════╝░╚════╝░░╚═════╝░╚═════╝░
-═══════════════════════════════════════════════════════
-let's join WRT CLOUD
-https://t.me/+ZRt9R_O5a7A0ZmM1
-admin:@yahyawrt
-═══════════════════════════════════════════════════════
 solde.dgbf.ci:8443/bulletin-solde/:hippolyte_aka@yahoo.fr:58936838
 poka-ra-ir05.am-iiw.ibmmobiledemo.com:8443/portal/PortalSetup.action:RFARIAS1:2QBHFSXW
 guestservice.et.ae:8443/portal/PortalSetup.action:Lheo:008030035
@@ -21556,3 +21544,4 @@ moq.kinda.sa:8443/est-moqaimoon/login/login.jsp:AP10:1234
 salman.kinda.sa:8443/estimation-salman/login/login.jsp:Ev100:123456
 haiys.kinda.sa:8443/estimation-hez/login/login.jsp:Ev34:12341234
 elink.tdtu.edu.vn:8443/cas/login:thekhach1:thekhach13579
+
